@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.zoom:hover {
+  cursor:pointer;
+  border-color: white;
+  border-width: 1px;
+  border-style: groove;
+}
